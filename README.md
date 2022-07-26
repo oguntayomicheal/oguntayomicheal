@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-devloper
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Front-end and back-end developent to become a full stack developer
 - 💞️ I’m looking to collaborate on any career advancement program
 - 📫 How to reach me - oguntayomicheal@gmail.com
 <!---
