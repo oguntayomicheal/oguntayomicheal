@@ -13,10 +13,7 @@
 - 🌱 Don't hesitate to reach out and say Hi—I'm always open to connecting!
 - ⚡ Fun fact: Beyond coding, I have a deep appreciation for classical music.
 
-<br />
-<h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/oguntayomicheal/count.svg" />
-<p>
+
 
 <h2><u><b>Knowledge Base</b></u></h2>
 
@@ -164,3 +161,6 @@ or email me at oguntayomicheal1@gmail.com
 
 ## Happy Coding! 😊
 
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/oguntayomicheal/count.svg" />
+<p>
