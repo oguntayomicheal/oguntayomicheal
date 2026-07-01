@@ -1,74 +1,74 @@
 # Hi, I'm Micheal Oguntayo 👋
 
-### AI Engineer & Full-Stack Developer
+### AI Automation & Full-Stack Developer
 
-I build intelligent software powered by Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and modern web technologies.
+I build AI-powered products, business automation systems, and modern web applications that help businesses save time, improve workflows, and deliver better user experiences.
 
-My focus is on creating practical AI applications that solve real-world problems—from document intelligence systems and autonomous agents to production-ready AI SaaS products.
+With a strong foundation in full-stack development, I specialize in combining software engineering, AI tools, and automation platforms to create practical solutions that solve real-world problems.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I Do
 
-* 🤖 AI Agents & Agentic Workflows
-* 📚 Retrieval-Augmented Generation (RAG) Systems
-* 🧠 LLM-Powered Applications
-* ⚡ Full-Stack AI Products
-* 🌐 Modern Web Applications
+* 🤖 Build AI-powered products and SaaS applications
+* ⚡ Design business automation workflows
+* 🔄 Streamline operations using AI and automation tools
+* 📚 Develop knowledge assistants and AI-powered search experiences
+* 🌐 Create scalable web applications with modern technologies
 
 ---
 
 ## 🛠 Tech Stack
 
-### AI & Machine Learning
+### AI & Automation
 
-Python • OpenAI • Gemini • LangChain • LangGraph • RAG • Vector Databases
-
-### Backend
-
-FastAPI • Node.js • PostgreSQL • REST APIs • Authentication
+Claude • Cursor • OpenAI APIs • n8n • Zapier • Make • Prompt Engineering
 
 ### Frontend
 
-React • Next.js • TypeScript • Tailwind CSS
+React • Next.js • TypeScript • JavaScript • Tailwind CSS
 
-### Cloud & Deployment
+### Backend
 
-Docker • Vercel • AWS • GitHub Actions
+Node.js • PostgreSQL • REST APIs • Authentication
+
+### Tools
+
+Git • GitHub • Vercel • Figma
 
 ---
 
 ## 📌 Featured Projects
 
-### 📚 Chat with Your Docs (RAG Application)
+### 🎭 RoleLab.ai
 
-An AI-powered document assistant that enables users to upload files and interact with them through natural language conversations.
+An AI-powered platform that helps actors improve self-tape auditions through instant performance analysis and actionable feedback.
 
-### 📊 AI Data Analyst Agent
+### ⚡ Business Automation Systems
 
-An autonomous AI analyst capable of exploring datasets, generating insights, creating visualizations, and answering business questions.
+Automated workflows that connect forms, CRMs, AI models, notifications, and business processes to reduce manual work and improve efficiency.
 
-### 🚀 Full-Stack AI SaaS
+### 📚 AI Knowledge Assistant
 
-A production-ready AI-powered SaaS platform featuring authentication, subscriptions, dashboards, and intelligent workflows.
+A retrieval-powered assistant that helps teams and users find information faster through intelligent search and conversational experiences.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-* Advanced RAG Architectures
-* Multi-Agent Systems
-* AI Evaluation Frameworks
-* Production LLM Infrastructure
+* Advanced AI Automation Workflows
+* AI-Powered Product Development
+* Retrieval-Augmented Applications
+* Business Process Optimization
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/ogunsmicky](http://www.linkedin.com/in/ogunsmicky)
+* LinkedIn: linkedin.com/in/ogunsmicky
 * GitHub: github.com/oguntayomicheal
 * Email: [oguntayomicheal1@gmail.com](mailto:oguntayomicheal1@gmail.com)
 
 ---
 
-> Building intelligent software, one AI product at a time.
+> Building practical AI solutions that create real business value.
